@@ -1,0 +1,17 @@
+.cont {
+    background-color: lightblue;
+}
+
+.head {
+    padding: 20px 30px;
+    width: 50%;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.navlink {
+    margin: 10px 20px;
+    color: black;
+    text-decoration: none;
+    font-weight: 300;
+}

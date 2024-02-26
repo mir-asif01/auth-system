@@ -1,0 +1,43 @@
+.main {
+    height: 600px;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+    background: lightseagreen;
+    width: 50%;
+    margin: 0 auto;
+    padding: 40px 30px;
+}
+
+.container h1 {
+    color: black;
+}
+
+.login-btn {
+    background: lightgreen;
+    padding: 10px 35px;
+    border: none;
+    outline: none;
+    border-radius: 10px;
+    font-weight: 700;
+}
+
+.inp-field {
+    padding: 8px 15px;
+    outline: none;
+    border: none;
+    border-radius: 7px;
+}
+
+.ta-c {
+    text-align: center;
+}
